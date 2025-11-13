@@ -1,16 +1,35 @@
-# React + Vite
+# My Todos App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and clean todo list application built with React and Vite. This app helps you keep track of your tasks in an intuitive interface.
 
-Currently, two official plugins are available:
+## Description
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+My Todos App is a lightweight task management application that allows you to view and organize your daily tasks. Built with modern web technologies, it provides a fast and responsive user experience for managing your todo items.
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Display a list of todos
+- Clean and minimalist user interface
+- Fast performance with Vite build tool
+- React-based component architecture
 
-## Expanding the ESLint configuration
+## Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React 18
+- Vite
+- ESLint (with React plugins)
+- CSS3
+
+## Installation Instructions
+
+### Prerequisites
+
+Make sure you have the following installed on your system:
+- Node.js (version 14 or higher)
+- npm (comes with Node.js)
+
+### Steps
+
+1. Clone the repository or download the project files:
+```bash
+git clone https://github.com/codewhizzz/todo-list.git
