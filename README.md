@@ -21,6 +21,8 @@ My Todos App is a lightweight task management application that allows you to vie
 - CSS3
 
 ## Installation Instructions
+npm install 
+npm run dev
 
 ### Prerequisites
 
